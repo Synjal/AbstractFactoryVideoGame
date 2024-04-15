@@ -1,6 +1,5 @@
-package model.characters;
+package model.weapons;
 
 public interface Weapon {
-
-    public void hit();
+    void hit();
 }

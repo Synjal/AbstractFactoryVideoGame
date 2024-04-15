@@ -1,3 +1,55 @@
 
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+S
+#src/model/characters/Character.java,5\b\5be1c5e746379b6057966bceb259691b0c44733b
+Q
+!src/model/characters/Warrior.java,f\1\f1ac2370b4fbbc9e5ce4891cb75b1606f8af712f
+N
+src/model/characters/Mage.java,b\9\b955c3ba5842da18b3ba5f8919f52c0b3a0feef2
+P
+ src/model/characters/Archer.java,8\c\8c6a48ca3719ad1978d8bba5bd3aea330b34f806
+X
+(src/model/characters/ModelCharacter.java,6\b\6bb5ef2a983176fcdcf2ebb52261a4645d5fb092
+W
+'src/factories/weapons/SwordFactory.java,5\2\52801e03409efb8e6d7239be847ab0a9004dbf9e
+U
+%src/factories/weapons/BowFactory.java,f\2\f20dd834de812f067e5ebdd6a8325b9fae41aebb
+U
+%src/factories/weapons/RodFactory.java,4\9\4939cf72d189b19d59c6ccecd70ab9ece8078f4f
+X
+(src/factories/weapons/WeaponFactory.java,0\4\04aa35cee567f2534df6c3cd650ba21c3bb974e5
+\
+,src/factories/characters/WarriorFactory.java,1\6\16fc7ef515a4d9950c4d0da5e4cb492eb434d204
+Y
+)src/factories/characters/MageFactory.java,7\5\75304ad35e4a96c8b0532eee1a6ee2a7af3ea754
+[
++src/factories/characters/ArcherFactory.java,7\3\73ea22d759b22d420674b71203ade3b4e6f4bfa5
+^
+.src/factories/characters/CharacterFactory.java,6\c\6c0713c6b35afefb0e34bb1d8eaa558f71c3fb01
+S
+#src/model/weapons/swords/Sword.java,1\7\178ae597635123f147b352ced693bed4ccfb0b1c
+X
+(src/model/weapons/swords/RustySword.java,d\9\d94c50d42e6f541169363f4bf98a77856630f82e
+M
+src/model/weapons/Weapon.java,5\e\5e2c58ff003e6f5e8082f18ec1c8ad385a9b8a4c
+X
+(src/model/weapons/swords/BasicSword.java,8\0\808305549b237b291f68d9d98b2c650f48469837
+O
+src/model/weapons/bows/Bow.java,0\6\060043df40a96d4e201049211e4d65c57cb7cca6
+T
+$src/model/weapons/bows/BasicBow.java,5\8\58291cf90c454ad5fe0ce83aecf38a34e1130ea6
+U
+%src/model/weapons/bows/WoodenBow.java,f\7\f73f04aa4f8e417190e37232e8fe337cb99d91dd
+H
+src/utils/Constants.java,4\a\4a529251440c44cd317d92ed0b57bc18d2a5596e
+O
+src/model/weapons/rods/Rod.java,e\e\ee3e0f6ad9f51eab713ce47795948a18ce5912d1
+T
+$src/model/weapons/rods/BasicRod.java,5\1\51d1e3b2da6a8115a4d67ef437741ad5285cefac
+U
+%src/model/weapons/rods/WoodenRod.java,c\5\c52391f5092970b6b705a2fdcb51cddfe92648de
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
